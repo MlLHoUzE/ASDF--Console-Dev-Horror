@@ -43,6 +43,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
         private float m_NextStep;
         private bool m_Jumping;
         private AudioSource m_AudioSource;
+        private int m_Stamina;
 
         // Use this for initialization
         private void Start()
@@ -223,7 +224,15 @@ namespace UnityStandardAssets.Characters.FirstPerson
 
 #endif
             // set the desired speed to be walking or running
-            speed = m_IsWalking ? m_WalkSpeed : m_RunSpeed;
+            if(m_Stamina > 10 && !m_IsWalking)
+            {
+                speed = m_RunSpeed;
+            }
+            else
+            {
+                speed = m_WalkSpeed;
+            }
+            //speed = m_IsWalking ? m_WalkSpeed : m_RunSpeed;
             m_Input = new Vector2(horizontal, vertical);
 
             // normalize input if it exceeds 1 in combined length:
