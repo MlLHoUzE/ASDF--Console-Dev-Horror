@@ -43,6 +43,8 @@ namespace UnityStandardAssets.Characters.FirstPerson
         private float m_NextStep;
         private bool m_Jumping;
         private AudioSource m_AudioSource;
+        public int m_Stamina;
+
 
         // Use this for initialization
         private void Start()
@@ -132,6 +134,14 @@ namespace UnityStandardAssets.Characters.FirstPerson
                 m_MoveDir += Physics.gravity*m_GravityMultiplier*Time.fixedDeltaTime;
             }
             m_CollisionFlags = m_CharacterController.Move(m_MoveDir*Time.fixedDeltaTime);
+
+            if(m_IsWalking == false && m_Stamina > 0)
+            {
+                m_Stamina--;
+            }else if(m_Stamina < 100)
+            {
+                m_Stamina += 5;
+            }
 
             ProgressStepCycle(speed);
             UpdateCameraPosition(speed);
@@ -223,7 +233,13 @@ namespace UnityStandardAssets.Characters.FirstPerson
 
 #endif
             // set the desired speed to be walking or running
-            speed = m_IsWalking ? m_WalkSpeed : m_RunSpeed;
+            if(m_Stamina > 10 && !m_IsWalking)
+            {
+                speed = m_RunSpeed;
+            }else
+            {
+                speed = m_WalkSpeed;
+            }
             m_Input = new Vector2(horizontal, vertical);
 
             // normalize input if it exceeds 1 in combined length:
