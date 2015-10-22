@@ -56,10 +56,6 @@
      <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs" />
      <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs" />
      <Compile Include="Assets\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs" />
-     <Compile Include="Assets\Standard Assets\Prototyping\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" />
-     <Compile Include="Assets\Standard Assets\Prototyping\Characters\FirstPersonCharacter\Scripts\HeadBob.cs" />
-     <Compile Include="Assets\Standard Assets\Prototyping\Characters\FirstPersonCharacter\Scripts\MouseLook.cs" />
-     <Compile Include="Assets\Standard Assets\Prototyping\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs" />
      <Compile Include="Assets\Standard Assets\Prototyping\Characters\RollerBall\Scripts\Ball.cs" />
      <Compile Include="Assets\Standard Assets\Prototyping\Characters\RollerBall\Scripts\BallUserControl.cs" />
      <Compile Include="Assets\Standard Assets\Prototyping\Characters\ThirdPersonCharacter\Scripts\AICharacterControl.cs" />
@@ -90,25 +86,19 @@
      <Compile Include="Assets\Standard Assets\Utility\WaypointProgressTracker.cs" />
      <None Include="Assets\Standard Assets\Printer\readme.txt" />
      <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
-     <None Include="Assets\Breakable Glass\Shaders\SimpleGlass.shader" />
-     <None Include="Assets\Props\PrimitivePlus\Documentation\ReadMe.txt" />
-     <None Include="Assets\Breakable Glass\README.txt" />
-     <None Include="Assets\Props\KY_effects\MagicEffectsPackFree\ReadMe.txt" />
+     <None Include="Assets\Asset Packages\Breakable Glass\Shaders\SimpleGlass.shader" />
+     <None Include="Assets\Asset Packages\Props\PrimitivePlus\Documentation\ReadMe.txt" />
+     <None Include="Assets\Asset Packages\Breakable Glass\README.txt" />
+     <None Include="Assets\Asset Packages\Props\KY_effects\MagicEffectsPackFree\ReadMe.txt" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Standard Assets\Prototyping\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
      <None Include="Assets\Standard Assets\Prototyping\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
      <None Include="Assets\Standard Assets\Prototyping\Characters\RollerBall\RollerBallGuidelines.txt" />
- <Reference Include="UnityEngine.Advertisements">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Analytics">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Cecil">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/Mono.Cecil.dll</HintPath>
