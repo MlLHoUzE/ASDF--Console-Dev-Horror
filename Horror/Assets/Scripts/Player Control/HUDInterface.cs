@@ -1,18 +1,22 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
+using UnityStandardAssets.Characters.FirstPerson;
 
 public class HUDInterface : MonoBehaviour 
 {
     [SerializeField] private float UseRange = 4f;
     [SerializeField] private Image Reticule;
+    [SerializeField] private Slider StaminaBar;
 
     private Camera m_Camera;
     private GameObject m_UseObject;
+    private FirstPersonController m_CharacterController;
 
 	void Start () 
     {
         m_Camera = transform.GetChild(0).GetComponent<Camera>();
+        m_CharacterController = GetComponent<FirstPersonController>();
 	}
 
     void FixedUpdate()
@@ -51,6 +55,6 @@ public class HUDInterface : MonoBehaviour
             m_UseObject.SendMessage("Use");
         }
 
-        Debug.DrawRay(m_Camera.transform.position, m_Camera.transform.forward * UseRange);
+        StaminaBar.value = m_CharacterController.m_Stamina;
 	}
 }
