@@ -26,10 +26,13 @@ public class DynamicWaypointSeek : MonoBehaviour {
 	public float accelAngularMax;
     public bool atWP = false;
 		
-	private bool hasTarget = false;
+	public bool hasTarget = false;
+    public bool hasObstacle = false;
 	
 	private Vector3 moveTarget;
+    private Vector3 avoidTarget;
 	private Vector3 destVect;
+    private Vector3 avoidVect;
 	private Quaternion destRot;
 	private float distTo;
 	
@@ -57,9 +60,19 @@ public class DynamicWaypointSeek : MonoBehaviour {
             targetObj.transform.position = moveTarget;
             hasTarget = false;
             destVect = moveTarget - transform.position;
+            if(hasObstacle)
+            {
+                avoidVect = transform.position - avoidTarget;
+                float avoidDist = Vector3.Distance(transform.position, moveTarget);
+                destRot = Quaternion.LookRotation(destVect.normalized + avoidVect.normalized);
+            }
+            else
+            {
+                destRot = Quaternion.LookRotation(destVect);
+            }
             distTo = destVect.magnitude; // Vector3.Distance(transform.position, moveTarget) does the same thing.
 
-            destRot = Quaternion.LookRotation(destVect);
+            
             rotLeft = Quaternion.Angle(transform.rotation, destRot);
 
             transform.Translate(Vector3.forward * GetMoveSpeed() * Time.deltaTime);
@@ -82,9 +95,19 @@ public class DynamicWaypointSeek : MonoBehaviour {
             // Set the destination vector and rotation.
             //Debug.Log(velocity);
 			destVect = moveTarget - transform.position;
-			distTo = destVect.magnitude; // Vector3.Distance(transform.position, moveTarget) does the same thing.
-
-			destRot = Quaternion.LookRotation( destVect );
+            if (hasObstacle)
+            {
+                avoidVect = transform.position - avoidTarget;
+                float avoidDist = Vector3.Distance(transform.position, avoidTarget);
+                destRot = Quaternion.LookRotation(destVect.normalized + avoidVect.normalized);
+                //distTo = destVect.magnitude; // Vector3.Distance(transform.position, moveTarget) does the same thing.
+            }
+            else
+            {
+                destRot = Quaternion.LookRotation(destVect);
+            }
+            distTo = destVect.magnitude;
+            destRot = Quaternion.LookRotation( destVect );
 			rotLeft = Quaternion.Angle(transform.rotation, destRot);
 			
 			transform.Translate( Vector3.forward * GetMoveSpeed() * Time.deltaTime );
@@ -150,5 +173,22 @@ public class DynamicWaypointSeek : MonoBehaviour {
 
         
         
+    }
+
+    void OnTriggerEnter(Collider other)
+    {
+        if(other.gameObject.tag == "Obstacle")
+        {
+            hasObstacle = true;
+            avoidTarget = other.transform.position;
+        }
+    }
+
+    void OnTriggerExit(Collider other)
+    {
+        if(other.gameObject.tag == "Obstacle")
+        {
+            hasObstacle = false;
+        }
     }
 }
