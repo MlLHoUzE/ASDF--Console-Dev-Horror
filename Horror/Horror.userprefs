@@ -1,8 +1,18 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Utility\ForcedReset.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\elevator.cs">
     <Files>
-      <File FileName="Assets\Standard Assets\Utility\ForcedReset.cs" Line="3" Column="1" />
+      <File FileName="Assets\Scripts\MenuButtonManager.cs" Line="12" Column="1" />
+      <File FileName="..\..\..\..\..\Unity Projects\Prototype1\Assets\MyScripts\JavaScript\MenuHover.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DynamicWaypointSeek.cs" Line="59" Column="6" />
+      <File FileName="Assets\Scripts\AIDetection.cs" Line="39" Column="18" />
+      <File FileName="Assets\Scripts\LightFlicker.cs" Line="39" Column="5" />
+      <File FileName="Assets\Scripts\BarrelFireSound.cs" Line="23" Column="23" />
+      <File FileName="Assets\Scripts\DoorConsole.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Creepyhallwaymusic.cs" Line="26" Column="6" />
+      <File FileName="Assets\Scripts\GameEnd.cs" Line="29" Column="3" />
+      <File FileName="Assets\Scripts\Explosion.cs" Line="22" Column="1" />
+      <File FileName="Assets\Scripts\elevator.cs" Line="11" Column="25" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

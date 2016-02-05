@@ -12,11 +12,13 @@ public class HUDInterface : MonoBehaviour
     private Camera m_Camera;
     private GameObject m_UseObject;
     private FirstPersonController m_CharacterController;
-
+	public AudioClip flicker;
+	private AudioSource source;
 	void Start () 
     {
         m_Camera = transform.GetChild(0).GetComponent<Camera>();
         m_CharacterController = GetComponent<FirstPersonController>();
+		source = GetComponent<AudioSource>();
 	}
 
     void FixedUpdate()
@@ -50,9 +52,11 @@ public class HUDInterface : MonoBehaviour
 	void Update () 
     {
 
-        if( Input.GetKeyDown(KeyCode.E) && ( m_UseObject != null ) )
+        if(( Input.GetKeyDown(KeyCode.E) || Input.GetKeyDown("joystick button 0")) && ( m_UseObject != null ) )
         {
+
             m_UseObject.SendMessage("Use");
+			source.PlayOneShot (flicker);
         }
 
         StaminaBar.value = m_CharacterController.m_Stamina;

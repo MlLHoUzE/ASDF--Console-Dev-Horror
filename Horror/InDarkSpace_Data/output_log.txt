@@ -1,0 +1,1793 @@
+Initialize engine version: 5.2.0f3 (e7947df39b5c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\ASDF--Console-Dev-Horror-master\Horror\InDarkSpace_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\ASDF--Console-Dev-Horror-master\Horror\InDarkSpace_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\ASDF--Console-Dev-Horror-master\Horror\InDarkSpace_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\ASDF--Console-Dev-Horror-master\Horror\InDarkSpace_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\ASDF--Console-Dev-Horror-master\Horror\InDarkSpace_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\ASDF--Console-Dev-Horror-master\Horror\InDarkSpace_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\ASDF--Console-Dev-Horror-master\Horror\InDarkSpace_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\ASDF--Console-Dev-Horror-master\Horror\InDarkSpace_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\ASDF--Console-Dev-Horror-master\Horror\InDarkSpace_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\ASDF--Console-Dev-Horror-master\Horror\InDarkSpace_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\ASDF--Console-Dev-Horror-master\Horror\InDarkSpace_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.245 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+Platform assembly: E:\ASDF--Console-Dev-Horror-master\Horror\InDarkSpace_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 31f8 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.243471 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3436.
+Total: 3.994286 ms (FindLiveObjects: 0.530290 ms CreateObjectMapping: 0.190733 ms MarkObjects: 3.221088 ms  DeleteObjects: 0.049180 ms)
+
+Platform assembly: E:\ASDF--Console-Dev-Horror-master\Horror\InDarkSpace_Data\Managed\Boo.Lang.dll (this message is harmless)
+yes
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+debug
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Can't add component 'Rigidbody' to Barrel because such a component is already added to the game object!
+ 
+(Filename:  Line: 87)
+
+Can't add component 'Rigidbody' to ConeHalf (2) because such a component is already added to the game object!
+ 
+(Filename:  Line: 87)
+
+Can't add component 'Rigidbody' to ConeHalf (3) because such a component is already added to the game object!
+ 
+(Filename:  Line: 87)
+
+Can't add component 'Rigidbody' to ConeHalf because such a component is already added to the game object!
+ 
+(Filename:  Line: 87)
+
+Can't add component 'Rigidbody' to ConeHalf (1) because such a component is already added to the game object!
+ 
+(Filename:  Line: 87)
+
+Can't add component 'Rigidbody' to ConeHalf (5) because such a component is already added to the game object!
+ 
+(Filename:  Line: 87)
+
+Can't add component 'Rigidbody' to ConeHalf (4) because such a component is already added to the game object!
+ 
+(Filename:  Line: 87)
+
+Can't add component 'Rigidbody' to ConeHalf (6) because such a component is already added to the game object!
+ 
+(Filename:  Line: 87)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/Wedge", Mesh asset path "" Mesh name "Wedge"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/Wedge/Plane", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/Wedge/Plane (1)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/Wedge/Plane (2)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/Wedge/Plane (3)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/Wedge/Plane (4)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/Wedge/Plane (5)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/Wedge/Plane (6)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TubedCube (9)", Mesh asset path "" Mesh name "TubedCube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TubedCube (9)/Plane (3)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TubedCube (8)", Mesh asset path "" Mesh name "TubedCube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TubedCube (8)/Plane (2)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker2/SemiCylinder (4)", Mesh asset path "" Mesh name "Cylinder"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Chair_05/TVset/Tube (1)", Mesh asset path "" Mesh name "Tube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Chair_05/TVset/Tube", Mesh asset path "" Mesh name "Tube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/HollowCube", Mesh asset path "" Mesh name "HollowCube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TubedCube (6)", Mesh asset path "" Mesh name "TubedCube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TubedCube (6)/Plane", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TubedCube (10)", Mesh asset path "" Mesh name "TubedCube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TubedCube (10)/Plane (4)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker2/SemiCylinder (2)", Mesh asset path "" Mesh name "Cylinder"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TVset_example/Plane", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/SemiCylinder", Mesh asset path "" Mesh name "Cylinder"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/Blinds/Blinds", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/Blinds/Blinds (1)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/Blinds/Blinds (2)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Wedge", Mesh asset path "" Mesh name "Wedge"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker2/Table_Metal/Table_Metal_Legs", Mesh asset path "" Mesh name "Table_Metal_Legs"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker2/Table_Metal/Table_Metal_Top", Mesh asset path "" Mesh name "Table_Metal_Top"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/HollowCube/Torus", Mesh asset path "" Mesh name "Torus"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TubedCube (7)", Mesh asset path "" Mesh name "TubedCube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TubedCube (7)/Plane (1)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/HollowCube/ConeHalf", Mesh asset path "" Mesh name "ConeHalf"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker2/SemiCylinder (5)", Mesh asset path "" Mesh name "Cylinder"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TubedCube (11)", Mesh asset path "" Mesh name "TubedCube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TubedCube (11)/Plane (5)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker2/SemiCylinder (3)", Mesh asset path "" Mesh name "Cylinder"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker2/SemiCylinder (1)", Mesh asset path "" Mesh name "Cylinder"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker2/SemiCylinder", Mesh asset path "" Mesh name "Cylinder"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "wallside", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane (3)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/JoinOuterPrototype02x06x02 (2)", Mesh asset path "" Mesh name "JoinOuterPrototype02x06x02"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "hallway/JoinMidPrototype04x06x01 (8)", Mesh asset path "" Mesh name "JoinMidPrototype04x06x01"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/RampPrototype04x02x02 (7)", Mesh asset path "" Mesh name "RampPrototype04x02x02"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane (1)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "hallway/JoinMidPrototype04x06x01 (7)", Mesh asset path "" Mesh name "JoinMidPrototype04x06x01"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "hallway/JoinMidPrototype04x06x01 (5)", Mesh asset path "" Mesh name "JoinMidPrototype04x06x01"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane (2)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/RampPrototype04x02x02 (6)", Mesh asset path "" Mesh name "RampPrototype04x02x02"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/JoinOuterPrototype02x06x02", Mesh asset path "" Mesh name "JoinOuterPrototype02x06x02"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker1/Table_Metal/Table_Metal_Legs", Mesh asset path "" Mesh name "Table_Metal_Legs"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker1/Table_Metal/Table_Metal_Top", Mesh asset path "" Mesh name "Table_Metal_Top"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane (8)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane (7)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "hallway/JoinMidPrototype04x06x01 (6)", Mesh asset path "" Mesh name "JoinMidPrototype04x06x01"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/RampPrototype04x02x02", Mesh asset path "" Mesh name "RampPrototype04x02x02"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker1/Corner (1)", Mesh asset path "" Mesh name "Corner"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/HousePrototype16x16x24", Mesh asset path "" Mesh name "HousePrototype16x16x24"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/HousePrototype16x16x24/Hexagon", Mesh asset path "" Mesh name "Hexagon"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "hallway/JoinMidPrototype04x06x01 (4)", Mesh asset path "" Mesh name "JoinMidPrototype04x06x01"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker1/Corner (2)", Mesh asset path "" Mesh name "Corner"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "hallway/JoinMidPrototype04x06x01 (1)", Mesh asset path "" Mesh name "JoinMidPrototype04x06x01"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/Circle", Mesh asset path "" Mesh name "Circle"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/Circle/Circle (1)", Mesh asset path "" Mesh name "Circle"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/Circle/Circle (2)", Mesh asset path "" Mesh name "Circle"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/Circle/Circle (3)", Mesh asset path "" Mesh name "Circle"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/Circle/Circle (4)", Mesh asset path "" Mesh name "Circle"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/Circle/Circle (5)", Mesh asset path "" Mesh name "Circle"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane (10)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "hallway/JoinMidPrototype04x06x01 (2)", Mesh asset path "" Mesh name "JoinMidPrototype04x06x01"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane (9)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/RampPrototype04x02x02 (1)", Mesh asset path "" Mesh name "RampPrototype04x02x02"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/RampPrototype04x02x02 (3)", Mesh asset path "" Mesh name "RampPrototype04x02x02"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker1/Corner (3)", Mesh asset path "" Mesh name "Corner"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker1/Corner", Mesh asset path "" Mesh name "Corner"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/RampPrototype04x02x02 (5)", Mesh asset path "" Mesh name "RampPrototype04x02x02"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane (1)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane (6)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "hallway/JoinMidPrototype04x06x01", Mesh asset path "" Mesh name "JoinMidPrototype04x06x01"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane (4)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "hallway/JoinMidPrototype04x06x01 (3)", Mesh asset path "" Mesh name "JoinMidPrototype04x06x01"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane (5)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/JoinOuterPrototype02x06x02 (3)", Mesh asset path "" Mesh name "JoinOuterPrototype02x06x02"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/RampPrototype04x02x02 (2)", Mesh asset path "" Mesh name "RampPrototype04x02x02"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/JoinOuterPrototype02x06x02 (1)", Mesh asset path "" Mesh name "JoinOuterPrototype02x06x02"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/Circle", Mesh asset path "" Mesh name "Circle"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/RampPrototype04x02x02 (4)", Mesh asset path "" Mesh name "RampPrototype04x02x02"
+ 
+(Filename:  Line: 1265)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.753645 ms
+
+Unloading 253 unused Assets to reduce memory usage. Loaded Objects now: 321.
+Total: 2.193008 ms (FindLiveObjects: 0.265573 ms CreateObjectMapping: 0.080826 ms MarkObjects: 0.590589 ms  DeleteObjects: 1.254736 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.558088 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3440.
+Total: 1.543402 ms (FindLiveObjects: 0.126585 ms CreateObjectMapping: 0.053884 ms MarkObjects: 1.341549 ms  DeleteObjects: 0.020099 ms)
+
+detected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+detected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DynamicWaypointSeek.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DynamicWaypointSeek.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DynamicWaypointSeek.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DynamicWaypointSeek.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DynamicWaypointSeek.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DynamicWaypointSeek.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DynamicWaypointSeek.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DynamicWaypointSeek.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DynamicWaypointSeek.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DynamicWaypointSeek.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DynamicWaypointSeek.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DynamicWaypointSeek.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DynamicWaypointSeek.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DynamicWaypointSeek.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DynamicWaypointSeek.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DynamicWaypointSeek.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DynamicWaypointSeek.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DynamicWaypointSeek.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DynamicWaypointSeek.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DynamicWaypointSeek.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DynamicWaypointSeek.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DynamicWaypointSeek.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DynamicWaypointSeek.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DynamicWaypointSeek.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+detected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+IndexOutOfRangeException: Array index is out of range.
+  at DynamicWaypointSeek.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+detected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+detected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+detected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.458282 ms
+debug
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Can't add component 'Rigidbody' to Glass (3) because such a component is already added to the game object!
+ 
+(Filename:  Line: 87)
+
+Can't add component 'Rigidbody' to Glass (4) because such a component is already added to the game object!
+ 
+(Filename:  Line: 87)
+
+Can't add component 'Rigidbody' to Glass (2) because such a component is already added to the game object!
+ 
+(Filename:  Line: 87)
+
+Can't add component 'Rigidbody' to ConeHalf (5) because such a component is already added to the game object!
+ 
+(Filename:  Line: 87)
+
+Can't add component 'Rigidbody' to Glass because such a component is already added to the game object!
+ 
+(Filename:  Line: 87)
+
+Can't add component 'Rigidbody' to ConeHalf (6) because such a component is already added to the game object!
+ 
+(Filename:  Line: 87)
+
+Can't add component 'Rigidbody' to ConeHalf (1) because such a component is already added to the game object!
+ 
+(Filename:  Line: 87)
+
+Can't add component 'Rigidbody' to ConeHalf (3) because such a component is already added to the game object!
+ 
+(Filename:  Line: 87)
+
+Can't add component 'Rigidbody' to ConeHalf because such a component is already added to the game object!
+ 
+(Filename:  Line: 87)
+
+Can't add component 'Rigidbody' to ConeHalf (4) because such a component is already added to the game object!
+ 
+(Filename:  Line: 87)
+
+Can't add component 'Rigidbody' to ConeHalf (2) because such a component is already added to the game object!
+ 
+(Filename:  Line: 87)
+
+Can't add component 'Rigidbody' to Glass (1) because such a component is already added to the game object!
+ 
+(Filename:  Line: 87)
+
+
+Unloading 86 unused Assets to reduce memory usage. Loaded Objects now: 2281.
+Total: 2.815672 ms (FindLiveObjects: 0.263862 ms CreateObjectMapping: 0.155665 ms MarkObjects: 1.154237 ms  DeleteObjects: 1.239340 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at MenuButtonManager.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker2/SemiCylinder", Mesh asset path "" Mesh name "Cylinder"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker2/SemiCylinder (1)", Mesh asset path "" Mesh name "Cylinder"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker2/SemiCylinder (2)", Mesh asset path "" Mesh name "Cylinder"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker2/SemiCylinder (3)", Mesh asset path "" Mesh name "Cylinder"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker2/SemiCylinder (4)", Mesh asset path "" Mesh name "Cylinder"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker2/SemiCylinder (5)", Mesh asset path "" Mesh name "Cylinder"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker2/Table_Metal/Table_Metal_Legs", Mesh asset path "" Mesh name "Table_Metal_Legs"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker2/Table_Metal/Table_Metal_Top", Mesh asset path "" Mesh name "Table_Metal_Top"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker1/Table_Metal/Table_Metal_Legs", Mesh asset path "" Mesh name "Table_Metal_Legs"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker1/Table_Metal/Table_Metal_Top", Mesh asset path "" Mesh name "Table_Metal_Top"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker1/Corner (2)", Mesh asset path "" Mesh name "Corner"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker1/Corner (1)", Mesh asset path "" Mesh name "Corner"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker1/Corner (3)", Mesh asset path "" Mesh name "Corner"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/bunker1/Corner", Mesh asset path "" Mesh name "Corner"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Wedge", Mesh asset path "" Mesh name "Wedge"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Chair_05/TVset/Tube (1)", Mesh asset path "" Mesh name "Tube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Chair_05/TVset/Tube", Mesh asset path "" Mesh name "Tube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane (1)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane (2)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane (4)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane (5)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane (9)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/Blinds/Blinds (1)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/abstractpainting", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/wr", Mesh asset path "" Mesh name "Corner"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/wr/TubedCube", Mesh asset path "" Mesh name "TubedCube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/wr/TubedCube/Plane (1)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/wr/TubedCube/Plane (3)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/wr/TubedCube (1)", Mesh asset path "" Mesh name "TubedCube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/wr/TubedCube (2)", Mesh asset path "" Mesh name "TubedCube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/wr/TubedCube (3)", Mesh asset path "" Mesh name "TubedCube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/wr/TubedCube (4)", Mesh asset path "" Mesh name "TubedCube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/wr/TubedCube (5)", Mesh asset path "" Mesh name "TubedCube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/HollowCube", Mesh asset path "" Mesh name "HollowCube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/HollowCube/ConeHalf", Mesh asset path "" Mesh name "ConeHalf"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/HollowCube/Torus", Mesh asset path "" Mesh name "Torus"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/SemiCylinder", Mesh asset path "" Mesh name "Cylinder"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/Circle", Mesh asset path "" Mesh name "Circle"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/Circle/Circle (1)", Mesh asset path "" Mesh name "Circle"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/Circle/Circle (2)", Mesh asset path "" Mesh name "Circle"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/Circle/Circle (3)", Mesh asset path "" Mesh name "Circle"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/Circle/Circle (4)", Mesh asset path "" Mesh name "Circle"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/Circle/Circle (5)", Mesh asset path "" Mesh name "Circle"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/JoinOuterPrototype02x06x02", Mesh asset path "" Mesh name "JoinOuterPrototype02x06x02"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/JoinOuterPrototype02x06x02 (1)", Mesh asset path "" Mesh name "JoinOuterPrototype02x06x02"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/JoinOuterPrototype02x06x02 (2)", Mesh asset path "" Mesh name "JoinOuterPrototype02x06x02"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/JoinOuterPrototype02x06x02 (3)", Mesh asset path "" Mesh name "JoinOuterPrototype02x06x02"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/HousePrototype16x16x24", Mesh asset path "" Mesh name "HousePrototype16x16x24"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/HousePrototype16x16x24/Hexagon", Mesh asset path "" Mesh name "Hexagon"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/Circle", Mesh asset path "" Mesh name "Circle"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/RampPrototype04x02x02", Mesh asset path "" Mesh name "RampPrototype04x02x02"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/RampPrototype04x02x02 (1)", Mesh asset path "" Mesh name "RampPrototype04x02x02"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/RampPrototype04x02x02 (2)", Mesh asset path "" Mesh name "RampPrototype04x02x02"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/mainFloor/RampPrototype04x02x02 (3)", Mesh asset path "" Mesh name "RampPrototype04x02x02"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/Blinds/Blinds (2)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane (6)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/wr/TubedCube/Plane (2)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane (3)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane (8)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane (7)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane (1)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/wr/TubedCube/Plane", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/wr/TubedCube/Plane (5)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/controlroom/Plane (10)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/wr/TubedCube/Plane (4)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TubedCube (6)", Mesh asset path "" Mesh name "TubedCube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TubedCube (6)/Plane", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TubedCube (7)", Mesh asset path "" Mesh name "TubedCube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TubedCube (7)/Plane (1)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TubedCube (8)", Mesh asset path "" Mesh name "TubedCube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TubedCube (8)/Plane (2)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TubedCube (9)", Mesh asset path "" Mesh name "TubedCube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TubedCube (9)/Plane (3)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TubedCube (10)", Mesh asset path "" Mesh name "TubedCube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TubedCube (10)/Plane (4)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TubedCube (11)", Mesh asset path "" Mesh name "TubedCube"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TubedCube (11)/Plane (5)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/Wedge", Mesh asset path "" Mesh name "Wedge"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/Wedge/Plane", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/Wedge/Plane (1)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/Wedge/Plane (2)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/Wedge/Plane (3)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/Wedge/Plane (4)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/Wedge/Plane (5)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/Wedge/Plane (6)", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/props/TVset_example/Plane", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level/Lab1/Blinds/Blinds", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 1265)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Explosion.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

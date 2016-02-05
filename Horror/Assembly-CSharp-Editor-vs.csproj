@@ -46,19 +46,19 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
-     <None Include="Assets\Standard Assets\Printer\readme.txt" />
-     <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
-     <None Include="Assets\Breakable Glass\Shaders\SimpleGlass.shader" />
-     <None Include="Assets\Props\PrimitivePlus\Documentation\ReadMe.txt" />
-     <None Include="Assets\Breakable Glass\README.txt" />
-     <None Include="Assets\Props\KY_effects\MagicEffectsPackFree\ReadMe.txt" />
-     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
-     <None Include="Assets\Standard Assets\Prototyping\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
-     <None Include="Assets\Standard Assets\Prototyping\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
-     <None Include="Assets\Standard Assets\Prototyping\Characters\RollerBall\RollerBallGuidelines.txt" />
+     <Compile Include="Assets\Asset Packages\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
+     <None Include="Assets\Asset Packages\Standard Assets\Printer\readme.txt" />
+     <None Include="Assets\Asset Packages\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
+     <None Include="Assets\Asset Packages\Breakable Glass\Shaders\SimpleGlass.shader" />
+     <None Include="Assets\Asset Packages\Props\PrimitivePlus\Documentation\ReadMe.txt" />
+     <None Include="Assets\Asset Packages\Breakable Glass\README.txt" />
+     <None Include="Assets\Asset Packages\Props\KY_effects\MagicEffectsPackFree\ReadMe.txt" />
+     <None Include="Assets\Asset Packages\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+     <None Include="Assets\Asset Packages\Standard Assets\Prototyping\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
+     <None Include="Assets\Asset Packages\Standard Assets\Prototyping\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
+     <None Include="Assets\Asset Packages\Standard Assets\Prototyping\Characters\RollerBall\RollerBallGuidelines.txt" />
  <Reference Include="Assembly-UnityScript">
- <HintPath>D:/Ducuments/Horror/Horror/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ <HintPath>D:/Downloads/ASDF--Console-Dev-Horror-master (1)/ASDF--Console-Dev-Horror-master/ASDF--Console-Dev-Horror-master/Horror/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -113,8 +113,6 @@
  </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Assembly-CSharp-firstpass-vs.csproj">
-      <Project>{3DCB81A7-EC52-33D7-4F28-532CA07CFBBD}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp-vs.csproj">
       <Project>{FBE5FED8-C6F9-D186-BCCD-208B34705BCD}</Project>      <Name>Assembly-CSharp-vs</Name>    </ProjectReference>
   </ItemGroup>

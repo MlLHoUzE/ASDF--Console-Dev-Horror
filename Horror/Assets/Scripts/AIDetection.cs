@@ -4,10 +4,12 @@ using System.Collections;
 public class AIDetection : MonoBehaviour {
     public DynamicWaypointSeek enemyAI;
     public GameObject player;
-
+	public AudioClip aidet;
+	private AudioSource source;
 	// Use this for initialization
 	void Start () {
-        player = GameObject.FindGameObjectWithTag("Player");
+        //player = GameObject.FindGameObjectWithTag("Player");
+		source = GetComponent<AudioSource>();
 	}
 	
 	// Update is called once per frame
@@ -17,10 +19,12 @@ public class AIDetection : MonoBehaviour {
         if (Physics.Raycast(transform.parent.position + Vector3.up * 1.5f,  player.transform.position - transform.parent.position, out hit))
         {
             Debug.DrawRay(transform.parent.position + Vector3.up * 1.5f, player.transform.position - transform.parent.position, Color.red);
-            if (hit.transform.gameObject.tag != "Player")
+            if (hit.transform.gameObject.tag != "Player" && enemyAI.playerInSight)
             {
-                enemyAI.playerInSight = false;
+                
+                enemyAI.findClosest();
                 enemyAI.hasTarget = true;
+                enemyAI.playerInSight = false;
             }
         }
     }
@@ -30,8 +34,13 @@ public class AIDetection : MonoBehaviour {
         if (other.gameObject.tag == "Player")
         {
             Debug.Log("detected");
-            player = other.gameObject;
+           // player = other.gameObject;
             enemyAI.playerInSight = true;
+			source.clip = aidet;
+			//source.PlayOneShot (flicker);
+			source.Play();
+
+			//GetComponent<Animation>().Play("creature1Attack1", PlayMode.StopAll);
         }
     }
 
@@ -39,6 +48,7 @@ public class AIDetection : MonoBehaviour {
     {
         if(other.gameObject.tag == "Player")
         {
+			source.Pause ();
             //enemyAI.playerInSight = false;
 
         }

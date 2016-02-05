@@ -56,6 +56,7 @@ public class DynamicWaypointSeek : MonoBehaviour {
 
         if (playerInSight)
         {
+			//GetComponent<Animation>().Play("creature1Attack1", PlayMode.StopAll);
             moveTarget = player.transform.position;
             targetObj.transform.position = moveTarget;
             hasTarget = false;
@@ -94,6 +95,7 @@ public class DynamicWaypointSeek : MonoBehaviour {
 		if ( hasTarget ) {
             // Set the destination vector and rotation.
             //Debug.Log(velocity);
+			//GetComponent<Animation>().Play("creature1walkright", PlayMode.StopAll);
 			destVect = moveTarget - transform.position;
             if (hasObstacle)
             {
@@ -190,5 +192,25 @@ public class DynamicWaypointSeek : MonoBehaviour {
         {
             hasObstacle = false;
         }
+    }
+
+    public void findClosest()
+    {
+        Transform tmin = null;
+        float minDist = Mathf.Infinity;
+        Vector3 curentPos = transform.position;
+        int i;
+        for ( i= 0;i<waypoints.Length;i++)
+        {
+            float dist = Vector3.Distance(waypoints[i].transform.position, curentPos);
+            if(dist < minDist)
+            {
+                tmin = waypoints[i].transform;
+                minDist = dist;
+
+            }
+        }
+        targetObj.transform.position = tmin.transform.position;
+        wpIndex = i;
     }
 }
